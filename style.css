@@ -16,7 +16,9 @@ div{
 }
 #input{
    width:240px;
-   height:40px
+   height:40px;
+   color:black;
+   background-color: white;
     
 }
 .color{
