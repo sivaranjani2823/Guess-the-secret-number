@@ -1,0 +1,29 @@
+h1{
+    background-color:gray;
+    padding:30px
+}
+div{
+    background-color:black;
+    padding:250px;
+}
+#button{
+    padding-right:40px;
+    padding-left:40px;
+    padding-top:3px;
+    padding-bottom:10px;
+    font-size:20px;
+    background-color:gainsboro;
+}
+#input{
+   width:240px;
+   height:40px
+    
+}
+.color{
+    color:aliceblue;
+    font-size:20px
+}
+#score{
+    color: white;
+    font-size:20px
+}
