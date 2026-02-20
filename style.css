@@ -4,8 +4,11 @@ h1{
 }
 div{
     background-color:black;
-    padding:250px;
+   width: 100%;
+   max-width: 600px;
+   margin: auto;
 }
+
 #button{
     padding-right:40px;
     padding-left:40px;
@@ -28,4 +31,10 @@ div{
 #score{
     color: white;
     font-size:20px
+}
+body {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 100vh;
 }
